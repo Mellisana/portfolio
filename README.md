@@ -7,6 +7,7 @@
 <style> body { font-family: Arial, sans-serif; margin: 20px;} h1 { text-align: center; color: ##800080; } </style>
 </head>
 <body>
+![фото для резюме](https://drive.google.com/file/d/14X-CGwEdn_Cj_7wp_tCzpy3PLso_ySiF/view?usp=sharing)
 <h1>Портфолио</h1>
     
 <p><strong>📍 О себе:</strong></p>
