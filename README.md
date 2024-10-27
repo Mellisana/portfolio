@@ -1,16 +1,9 @@
 <!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Портфолио Эльнуры</title>
-<style> body { font-family: Arial, sans-serif; margin: 20px;} h1 { text-align: center; color: ##800080; } </style>
-</head>
-<body>
-![фото для резюме](https://drive.google.com/file/d/14X-CGwEdn_Cj_7wp_tCzpy3PLso_ySiF/view?usp=sharing)
+
+![фото для резюме](photo.jpeg)
 <h1>Портфолио</h1>
     
-<p><strong>📍 О себе:</strong></p>
+<p><strong><h2>📍 О себе:</h2></strong></p>
 <p>Меня зовут Эльнура, мне 25 лет. Сейчас я прохожу обучение в Нетологии по направлению QA Engineer (расширенный курс: ручное и автоматизированное тестирование).</p>
     
 <p><strong><H2>🎯 Мои навыки по завершению обучения:</H2></strong></p>
