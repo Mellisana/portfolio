@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<img src="photo.jpeg" alt="фото для портфолио" width="200" height="100">)
+<img src="photo.jpeg" alt="фото для портфолио" width="130" height="250">)
 <h1>Портфолио</h1>
     
 <p><strong><h2>📍 О себе:</h2></strong></p>
