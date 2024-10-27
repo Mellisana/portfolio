@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-HEAD
+<HEAD>
 <img src="photo.jpeg" alt="фото для портфолио" width="130" height="250">)
 
 
