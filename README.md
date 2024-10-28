@@ -33,9 +33,9 @@
 <li>Активно использую нейронные сети для автоматизации монотонной работы</li>
 </ul>
     
-<div class="contacts">
+
 <p><strong><h2>🔗 Контакты:</h2></strong></p>
-div class="contact-item">
+
 <span class="contact-label">Email:</span>
 <a href="mailto:elyasalmanovaasr@gmail.com">elyasalmanovaasr@gmail.com</a>
 </div>
