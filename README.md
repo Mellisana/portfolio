@@ -15,6 +15,8 @@
 
 <p><strong><h2>📍 О себе:</h2></strong></p>
 <p>Меня зовут Эльнура, мне 26 лет. Сейчас я прохожу обучение в Нетологии по направлению QA Engineer (расширенный курс: автоматизированное тестирование) Владею навыками ручного тестирования.</p>
+
+
     
 <p><strong><H2>🎯 Мои навыки и знания:</H2></strong></p>
 <ul>
@@ -28,7 +30,8 @@
 <li>REST/SOAP</li>
 <li>API</li>
 </ul>
-    
+
+
 
 <p><strong><h2>🔗 Контакты:</h2></strong></p>
 
@@ -44,9 +47,13 @@
 <a href="https://github.com/mellisana">mellisana</a>
 </div>
 </div>
+
+
     
 <p><strong><h2>📚 Образование:</h2></strong></p>
 <p>Нетология, Курс "QA Engineer (расширенный курс: ручное и автоматизированное тестирование)", август 2024 – настоящее время</p>
+
+
     
 <p><strong><h2>🛠️ Технологии и инструменты:</h2></strong></p>
 <div>
@@ -62,5 +69,47 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" alt="postman" width="80" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp;
+
+
+
+ <p><strong><h2>Мои работы:</h2></strong></p>
+<ul>
+  <li><a href="https://github.com/Mellisana/test-k">Тест-кейс для проверки веб-страницы</a></li>
+  
+  <li><a href="https://github.com/Mellisana/bug-report">Оформление баг-репорта</a></li>
+        
+  <li><a href="https://github.com/Mellisana/dev-tools">Работа с DevTools</a></li>
+        
+  <li><a href="https://github.com/Mellisana/dev-tools"> https://github.com/Mellisana/client-server>Нагрузочное тестирование в JMeter и тестирование API в Postman</a></li>
+        
+  <li><a href="https://github.com/Mellisana/mili")>Testability, авто-тесты, введение в ООП: объекты и методы</a></li>
+  
+  <li><a href="https://github.com/Mellisana/balance">Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений
+</a></li>
+
+  <li><a href="https://github.com/Mellisana/avtotest-bonus">Система сборки Maven, управление зависимостями, авто-тесты на JUnit5</a></li>
+  
+  <li><a href="https://github.com/Mellisana/javaJobTest">Пакеты и циклы</a></li>
+  
+  <li><a href="https://github.com/Mellisana/movie">работа с менеджером Java</a></li>
+        
+  <li><a href="https://github.com/Mellisana/object">CI/CD</a></li>
+        
+  <li><a href="https://github.com/Mellisana/Ticket">Интерфейсы для организации малой связности. Обобщённое программирование (Generics)</a></li>
+        
+  <li><a href="https://github.com/Mellisana/CI">Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs<a></li>
+  
+   <li><a href="https://github.com/Mellisana/game">Collections Framework. CRUD и тестирование систем, управляющих набором объектов</a></li>
+   
+   <li><a href="https://github.com/Mellisana/prod">Исключительные ситуации и их обработка. Тестирование исключений</a></li>
+   
+   <li><a href="https://github.com/Mellisana/movie">Композиция и зависимость объектов. Mockito при создании авто-тестов</a></li>
+   
+   <li><a href="https://github.com/Mellisana/Radio">Объекты с внутренним состоянием, управление состоянием при тестировании</a></li>
+   
+   <li><a href="https://github.com/Mellisana/Application">Объектно-ориентированное программирование: ключевые принципы</a></li>
+
+   <li><a href="https://github.com/Mellisana/JavaSalesTest">Строки и массивы</a></li>
+</ul>
 </body>
 </html>
