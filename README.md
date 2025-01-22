@@ -55,7 +55,7 @@
 
 
     
-<p><strong><h2>🛠️ Технологии и инструменты:</h2></strong></p>
+<p><strong><h2>🛠️ Программы и инструменты:</h2></strong></p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
