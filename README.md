@@ -27,7 +27,6 @@
 <li>Освоила процессы CI/CD</li>
 <li>REST/SOAP</li>
 <li>API</li>
-<li></li>
 </ul>
     
 
