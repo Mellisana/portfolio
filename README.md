@@ -79,7 +79,7 @@
         
   <li><a href="https://github.com/Mellisana/dev-tools">Работа с DevTools</a></li>
         
-  <li><a href="https://github.com/Mellisana/dev-tools"> https://github.com/Mellisana/client-server>Нагрузочное тестирование в JMeter и тестирование API в Postman</a></li>
+  <li><a href="https://github.com/Mellisana/client-server">Нагрузочное тестирование в JMeter и тестирование API в Postman</a></li>
         
   <li><a href="https://github.com/Mellisana/mili")>Testability, авто-тесты, введение в ООП: объекты и методы</a></li>
   
