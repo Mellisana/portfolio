@@ -109,6 +109,7 @@
    <li><a href="https://github.com/Mellisana/Application">Объектно-ориентированное программирование: ключевые принципы</a></li>
 
    <li><a href="https://github.com/Mellisana/JavaSalesTest">Строки и массивы</a></li>
+   <li><a href="https://docs.google.com/file/d/1QPRxF23qr0LKs_Mec1jnOpwv2Xox1X8Q/edit?usp=docslist_api&filetype=msexcel">Курсовой проект:тест-кейсы</a></li>
 </ul>
 </body>
 </html>
