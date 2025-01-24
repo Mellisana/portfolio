@@ -28,7 +28,6 @@
 <li>Нагрузочное тестирование в JMeter</li>
 <li>Освоила процессы CI/CD</li>
 <li>REST/SOAP</li>
-<li>API</li>
 </ul>
 
 
