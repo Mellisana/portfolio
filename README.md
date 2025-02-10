@@ -29,7 +29,6 @@
 <li>Освоила процессы CI/CD</li>
 <li>REST/SOAP</li>
 <li>Selenium/Selenide </li>
-<li> git - система контроля версий</li>
 <li> Автоматизация на Java</li>
 
 </ul>
