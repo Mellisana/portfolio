@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <HEAD>
-<img src="photo.jpeg" alt="фото для портфолио" width="170" height="200">
+<img src="photo.jpeg" alt="фото для портфолио" width="170" height="220">
 
 <div id="badges">
   <a href="https://t.me/elya_salmanova">
@@ -269,11 +269,11 @@
 <li><a href="https://github.com/Mellisana/docker"> Docker и Docker Compose 1</a></li>
 <ul> <strong>Задачи:</strong>
   <li>Подготовить приложение для работы с PostgreSQL, используя образ <code>13-alpine</code>.</li>
-  <li>Настроить файл <code>application.properties</code> для подключения к PostgreSQL.</li>
-  <li>Создать файл <code>docker-compose.yml</code> для запуска контейнера PostgreSQL.</li>
-  <li>Запустить контейнер PostgreSQL и приложение <code>db-api.jar</code>.</li>
+  <li>Настроить файл <code>application.properties</code> для подключения к PostgreSQL</li>
+  <li>Создать файл <code>docker-compose.yml</code> для запуска контейнера PostgreSQL</li>
+  <li>Запустить контейнер PostgreSQL и приложение <code>db-api.jar</code></li>
   <li>Проверить работоспособность приложения, выполнив GET-запрос</li>
-  <li>Добавить в репозиторий файлы: <code>.gitignore</code>, <code>db-api.jar</code>, <code>application.properties</code>, <code>docker-compose.yml</code>, <code>README.md</code>.</li>
+  <li>Добавить в репозиторий файлы: <code>.gitignore</code>, <code>db-api.jar</code>, <code>application.properties</code>, <code>docker-compose.yml</code>, <code>README.md</code></li>
 </ul>
 
 <li><a href="https://github.com/Mellisana/docker2"> Docker и Docker Compose 2</a></li>
@@ -285,8 +285,16 @@
   <li>Подготовить репозиторий с необходимыми файлами</li>
 </ul>
 
-
-
+<li><a href="https://github.com/Mellisana/SQL/tree/main">SQL</a></li>
+<ul> <strong>Задачи:</strong>
+  <li>Изучить схему базы данных</li>
+  <li>Создать Docker-контейнер с MySQL</li>
+  <li>Запустить SUT, настроив подключение к базе</li>
+  <li>Решить проблемы с таблицами и демо-данными</li>
+  <li>Написать тест для входа в систему через веб-интерфейс</li>
+  <li>Проверить блокировку системы</li>
+  <li>Подготовить репозиторий с необходимыми файлами</li>
+</ul>
 
 
 
