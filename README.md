@@ -6,6 +6,23 @@
 
 Меня зовут Эльнура, мне 26 лет. Сейчас я прохожу обучение в Нетологии по направлению QA Engineer (расширенный курс: автоматизированное тестирование). Владею навыками ручного и автоматизированного тестирования.
 
+## 🔗 Контакты
+
+- **Email:** [elyasalmanovaasr@gmail.com](mailto:elyasalmanovaasr@gmail.com)
+- **Телефон:** [+7 (983) 581-97-57](tel:+79835819757)
+- **GitHub:** [mellisana](https://github.com/mellisana)
+- <!DOCTYPE html>
+<HEAD>
+
+<div id="badges">
+  <a href="https://t.me/elya_salmanova">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
+  </a>
+  <a href="https://www.instagram.com/m_elli_sa">
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=youtube&logoColor=pink" alt="Instagram Badge"/>
+  </a>
+</div>
+
 ## 🎯 Мои навыки и знания
 
 - Основы теории тестирования
@@ -251,19 +268,4 @@
     <img src="https://github.com/user-attachments/assets/b5a26a16-bc2c-482b-9b96-5ac0068ae1eb" alt="Image 4" style="width: 600px; height: 400px; object-fit: cover;">
   </div>
   
-## 🔗 Контакты
 
-- **Email:** [elyasalmanovaasr@gmail.com](mailto:elyasalmanovaasr@gmail.com)
-- **Телефон:** [+7 (983) 581-97-57](tel:+79835819757)
-- **GitHub:** [mellisana](https://github.com/mellisana)
-- <!DOCTYPE html>
-<HEAD>
-
-<div id="badges">
-  <a href="https://t.me/elya_salmanova">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
-  </a>
-  <a href="https://www.instagram.com/m_elli_sa">
-    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=youtube&logoColor=pink" alt="Instagram Badge"/>
-  </a>
-</div>
