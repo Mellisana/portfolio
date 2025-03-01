@@ -59,29 +59,45 @@
 </div>
 
 
- <p><strong><h2>Мои работы:</h2></strong></p>
+<p><strong><h2>Мои работы:</h2></strong></p>
 <ul>
- <strong><a href="https://github.com/Mellisana/test-k">Тест-кейс для проверки веб-страницы</a></strong>
-   <ul><strong>Задачи:</strong>
-          <li>Проверить валидацию полей (ФИО, телефон, email)</li>
-          <li>Проверить функциональность кнопок ("Отправить", "Очистить")</li>
-          <li>Проверить обработку ошибок и сообщений</li>
-          <li>Убедиться в кросс-браузерной совместимости</li>
-          <li>Проверить интеграцию с backend</li>
-</ul>
+  <li><strong><a href="https://github.com/Mellisana/test-k">Тест-кейсы для проверки веб-страницы</a></strong>
+    <ul><strong>Задачи:</strong>
+      <li>Проверить валидацию полей (ФИО, телефон, email).</li>
+      <li>Проверить функциональность кнопок ("Отправить", "Очистить").</li>
+      <li>Проверить обработку ошибок и сообщений.</li>
+      <li>Убедиться в кросс-браузерной совместимости.</li>
+      <li>Проверить интеграцию с backend.</li>
+    </ul>
+  </li>
   
-<ul>
- <strong><a href="https://github.com/Mellisana/bug-report">Оформление баг-репорта</a></strong>
-     <ul><strong>Задачи:</strong>
-   <li>Протестировать анкету</li>
-   <li>Завести баг-репорты</li>
-</ul>
+  <li> <strong><a href="https://github.com/Mellisana/bug-report">Оформление баг-репортов</a></strong>
+    <ul><strong>Задачи:</strong>
+      <li>Протестировать анкету</li>
+      <li>Завести баг-репорты</li>
+    </ul>
+  </li>
 
 
-  <li><a href="https://github.com/Mellisana/dev-tools">Работа с DevTools</a></li>
-        
+<li> <strong><a href="https://github.com/Mellisana/dev-tools">Работа с DevTools</a></strong>
+  <ul><strong>Задачи:</strong>
+    <li>Провести тестирование формы с анализом ошибок и статусов сервера</li>
+    <li>Внести изменения в дизайн страницы (цвет кнопки, логотип, цвет текста ошибки)</li>
+    <li>Подготовить скриншоты и отчёты для демонстрации результатов</li>
+  </ul>
+</li>
+
+
   <li><a href="https://github.com/Mellisana/client-server">Нагрузочное тестирование в JMeter и тестирование API в Postman</a></li>
-        
+         <ul><strong>Задачи:</strong>
+    <li>Провести нагрузочное тестирование с использованием JMeter (15 потоков).</li>
+    <li>Протестировать API через Postman, выявить и задокументировать баги.</li>
+    <li>Исследовать поле поиска на сайте с помощью DevTools, проверить реакцию на ввод длинной строки.</li>
+    <li>Подготовить отчёты и скриншоты для демонстрации результатов.</li>
+  </ul>
+</li>
+
+
   <li><a href="https://github.com/Mellisana/mili")>Testability, авто-тесты, введение в ООП: объекты и методы</a></li>
   
   <li><a href="https://github.com/Mellisana/balance">Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений
