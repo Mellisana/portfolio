@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <HEAD>
-<img src="photo.jpeg" alt="фото для портфолио" width="1" height="250">
+<img src="photo.jpeg" alt="фото для портфолио" width="170" height="250">
 
 <div id="badges">
   <a href="https://t.me/elya_salmanova">
