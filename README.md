@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<HEAD>
-<img src="photo.jpeg" alt="фото для портфолио" width="200" height="300">
 
-<div id="badges">
-  <a href="https://t.me/elya_salmanova">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
-  </a>
-  <a href="https://www.instagram.com/m_elli_sa">
-    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=youtube&logoColor=pink" alt="Instagram Badge"/>
-  </a>
-</div>
 
 <h1>Портфолио</h1>
 
@@ -30,11 +19,8 @@
 - Selenium/Selenide
 - Автоматизация на Java
 
-## 📚 Образование
 
-- Нетология, Курс "QA Engineer (расширенный курс: ручное и автоматизированное тестирование)", август 2024 – настоящее время
-
-    
+  
 <p><strong><h2>🛠️ Программы и инструменты:</h2></strong></p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
@@ -255,8 +241,29 @@
 - Проверить блокировку системы
 - Подготовить репозиторий с необходимыми файлами
 
+## 📚 Образование
+
+- Нетология, Курс "QA Engineer (расширенный курс: ручное и автоматизированное тестирование)", август 2024 – настоящее время
+
+    <img src="https://github.com/user-attachments/assets/338eed3e-3386-4862-8a2d-078ffbafeb2c" alt="Image 1" style="width: 600px; height: 400px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/4e92561f-5867-47e7-aa86-937b296d0ead" alt="Image 2" style="width: 600px; height: 400px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/611fa4dc-7a3c-4a8c-98ad-07bbb942a206" alt="Image 3" style="width: 600px; height: 400px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/b5a26a16-bc2c-482b-9b96-5ac0068ae1eb" alt="Image 4" style="width: 600px; height: 400px; object-fit: cover;">
+  </div>
+  
 ## 🔗 Контакты
 
 - **Email:** [elyasalmanovaasr@gmail.com](mailto:elyasalmanovaasr@gmail.com)
 - **Телефон:** [+7 (983) 581-97-57](tel:+79835819757)
 - **GitHub:** [mellisana](https://github.com/mellisana)
+- <!DOCTYPE html>
+<HEAD>
+
+<div id="badges">
+  <a href="https://t.me/elya_salmanova">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
+  </a>
+  <a href="https://www.instagram.com/m_elli_sa">
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=youtube&logoColor=pink" alt="Instagram Badge"/>
+  </a>
+</div>
