@@ -88,7 +88,7 @@
 </li>
 
 
-  <li><a href="https://github.com/Mellisana/client-server">Нагрузочное тестирование в JMeter и тестирование API в Postman</a></li>
+  <li><strong><a href="https://github.com/Mellisana/client-server">Нагрузочное тестирование в JMeter и тестирование API в Postman</a></li></strong>
          <ul><strong>Задачи:</strong>
     <li>Провести нагрузочное тестирование с использованием JMeter (15 потоков)</li>
     <li>Протестировать API через Postman, выявить и задокументировать баги</li>
@@ -98,7 +98,7 @@
 </li>
 
 
-  <li><a href="[https://github.com/Mellisana/milii](https://github.com/Mellisana/mili")>Testability, авто-тесты, введение в ООП: объекты и методы</a></li>
+  <li><strong><a href="https://github.com/Mellisana/milii](https://github.com/Mellisana/mili">Testability, авто-тесты, введение в ООП: объекты и методы</a></li></strong>
    <ul> <strong>Задачи:</strong>
     <li>СНаписать классы для расчёта бонусных миль за авиабилеты</li>
     <li>Разработать приложение для расчёта бонусов при пополнении счёта у сотового оператора</li>
