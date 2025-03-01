@@ -33,23 +33,6 @@
 </ul>
 
 
-
-<p><strong><h2>🔗 Контакты:</h2></strong></p>
-
-<span class="contact-label">Email:</span>
-<a href="mailto:elyasalmanovaasr@gmail.com">elyasalmanovaasr@gmail.com</a>
-</div>
-<div class="contact-item">
-<span class="contact-label">Телефон:</span>
-<a href="tel:+79835819757">+7 (983) 581-97-57</a>
-</div>
-<div class="contact-item">
-<span class="contact-label">GitHub:</span>
-<a href="https://github.com/mellisana">mellisana</a>
-</div>
-</div>
-
-
     
 <p><strong><h2>📚 Образование:</h2></strong></p>
 <p>Нетология, Курс "QA Engineer (расширенный курс: ручное и автоматизированное тестирование)", август 2024 – настоящее время</p>
@@ -78,8 +61,14 @@
 
  <p><strong><h2>Мои работы:</h2></strong></p>
 <ul>
-  <li><a href="https://github.com/Mellisana/test-k">Тест-кейс для проверки веб-страницы</a></li>
-  
+  <a href="https://github.com/Mellisana/test-k">Тест-кейс для проверки веб-страницы</a>
+   <li><strong>Задачи:</strong>
+          <li>Проверить валидацию полей (ФИО, телефон, email)</li>
+          <li>Проверить функциональность кнопок ("Отправить", "Очистить")</li>
+          <li>Проверить обработку ошибок и сообщений</li>
+          <li>Убедиться в кросс-браузерной совместимости</li>
+          <li>Проверить интеграцию с backend.</li>
+           <li>Итог: тест-кейс</li>
   <li><a href="https://github.com/Mellisana/bug-report">Оформление баг-репорта</a></li>
         
   <li><a href="https://github.com/Mellisana/dev-tools">Работа с DevTools</a></li>
@@ -116,5 +105,21 @@
    <li><a href="https://github.com/Mellisana/JavaSalesTest">Строки и массивы</a></li>
    <li><a href="https://docs.google.com/file/d/1QPRxF23qr0LKs_Mec1jnOpwv2Xox1X8Q/edit?usp=docslist_api&filetype=msexcel">Курсовой проект:тест-кейсы</a></li>
 </ul>
+
+
+<p><strong><h2>🔗 Контакты:</h2></strong></p>
+
+<span class="contact-label">Email:</span>
+<a href="mailto:elyasalmanovaasr@gmail.com">elyasalmanovaasr@gmail.com</a>
+</div>
+<div class="contact-item">
+<span class="contact-label">Телефон:</span>
+<a href="tel:+79835819757">+7 (983) 581-97-57</a>
+</div>
+<div class="contact-item">
+<span class="contact-label">GitHub:</span>
+<a href="https://github.com/mellisana">mellisana</a>
+</div>
+</div>
 </body>
 </html>
